@@ -20,5 +20,8 @@
 <script src="js/custom.js"></script>
 <!-- End js -->
 
+<!-- Google Adsense -->
+<script data-ad-client="ca-pub-8424810475641355" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 </body>
 </html>
